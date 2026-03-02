@@ -41,18 +41,18 @@ It provides an incredibly accessible and easy-to-modify Python codebase for make
 **Desktop Interface**
 | Dashboard (CN) | Dashboard (EN) |
 | :---: | :---: |
-| ![Dashboard CN](images/PCIndexCN.png) | ![Dashboard EN](images/PCIndexEN.png) |
+| ![Dashboard CN](image/PCIndexCN.png) | ![Dashboard EN](image/PCIndexEN.png) |
 | **Settings** | **System Logs** |
-| ![Settings](images/PCSetting.png) | ![Logs](images/PCLogs.png) |
+| ![Settings](image/PCSetting.png) | ![Logs](image/PCLogs.png) |
 | **Modbus Debugger** | **HEX Terminal** |
-| ![Modbus](images/PCModbus.png) | ![HEX](images/PCHexTTL.png) |
+| ![Modbus](image/PCModbus.png) | ![HEX](image/PCHexTTL.png) |
 
 **Mobile Interface**
 | Main Dashboard | Bottom Status | Charts |
 | :---: | :---: | :---: |
-| <img src="images/Mobile.png" width="250"> | <img src="images/MobileBotton.png" width="250"> | <img src="images/MobileChart.png" width="250"> |
+| <img src="image/Mobile.png" width="250"> | <img src="image/MobileBotton.png" width="250"> | <img src="image/MobileChart.png" width="250"> |
 | **Settings** | **Logs** | **Debug Terminal** |
-| <img src="images/MobileSetting.png" width="250"> | <img src="images/MobileLogs.png" width="250"> | <img src="images/MobileDebug.png" width="250"> |
+| <img src="image/MobileSetting.png" width="250"> | <img src="image/MobileLogs.png" width="250"> | <img src="image/MobileDebug.png" width="250"> |
 
 ---
 
@@ -105,4 +105,5 @@ This is an unofficial, community-driven open-source project and is **NOT** affil
 **[中文]**
 本项目为一个非官方的、由社区驱动的开源项目，与任何特定的 UPS 制造商**没有任何从属、赞助或合作关系**。
 * 本项目中提及的任何相关型号或通讯协议均为其各自所有者的商标/资产。本项目仅在“描述性合理使用”的范畴内提及这些名称，以说明本软件的协议兼容性。
+
 * 本项目代码及相关文件均基于“现状”提供，不作任何明示或暗示的保证。操作工业电源设备具有固有的危险性，由于使用本软件造成的任何设备损坏、数据丢失或安全事故，本项目作者及贡献者概不负责。
