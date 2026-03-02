@@ -39,10 +39,15 @@ It provides an incredibly accessible and easy-to-modify Python codebase for make
 
 ### 📸 Screenshots
 **Desktop Interface**
-| Dashboard (CN) | Dashboard (EN) |
-| :---: | :---: |
-| ![Dashboard CN](image/PCIndexCN.png) | ![Dashboard EN](image/PCIndexEN.png) |
+**Desktop Interface**
+
+**Dashboard (CN)**
+![Dashboard CN](image/PCIndexCN.png)
+
+**Dashboard (EN)**
+![Dashboard EN](image/PCIndexEN.png)
 | **Settings** | **System Logs** |
+| :---: | :---: |
 | ![Settings](image/PCSetting.png) | ![Logs](image/PCLogs.png) |
 | **Modbus Debugger** | **HEX Terminal** |
 | ![Modbus](image/PCModbus.png) | ![HEX](image/PCHexTTL.png) |
@@ -107,3 +112,4 @@ This is an unofficial, community-driven open-source project and is **NOT** affil
 * 本项目中提及的任何相关型号或通讯协议均为其各自所有者的商标/资产。本项目仅在“描述性合理使用”的范畴内提及这些名称，以说明本软件的协议兼容性。
 
 * 本项目代码及相关文件均基于“现状”提供，不作任何明示或暗示的保证。操作工业电源设备具有固有的危险性，由于使用本软件造成的任何设备损坏、数据丢失或安全事故，本项目作者及贡献者概不负责。
+
